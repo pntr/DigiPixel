@@ -46,6 +46,6 @@ included example programs available to you.  (You can find the Examples under
 - [DigiPixel Tutorial 1](https://www.youtube.com/watch?v=7tXd0fOJ6ZE) - Tuturial on developing for the DigiPixel and using the library 
 - [DigiPixel Overview](https://www.youtube.com/watch?v=uRcAhQN7U3M) - Kickstarter Campaign 
 - [DigiPixel Soldering Pin Headers](https://www.youtube.com/watch?v=tFNU0J-1DcY) - Quick tips on how to solder up what you need
-- [DigiPixel Homepage](http://http://www.bradsprojects.com/the-digipixel/) - More great content examples and ideas
+- [DigiPixel Homepage](http://www.bradsprojects.com/the-digipixel/) - More great content examples and ideas
 
 
